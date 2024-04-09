@@ -1,4 +1,4 @@
-= Land Information System Framework (LISF)
+= Fork to attemp compiling on the ARM64 Processor (Ampere Altra/Altra Max, and RK3588 at a smaller scale)
 
 ifdef::env-github[]
 :tip-caption: :bulb:
